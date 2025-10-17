@@ -1,4 +1,4 @@
-# [SmartNote.ai](https://smartnote-ai-pied.vercel.app/)
+# [SmartNote.ai](https://smartnote-ai-pied.vercel.app/) - Live Demo
 
 ## 🚀 Project Overview
 SmartNote AI is an intelligent note-taking application designed to help users **capture, organize, and retrieve information efficiently**.  
