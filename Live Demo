@@ -1,9 +1,0 @@
-
-https://smartnote-ai-pied.vercel.app
-
-SmartNote – AI-Powered Note Maker
-Developed a SaaS web application smart note-making web application using React.js, Next.js, and Convex
-real-time database. PayPal for payment processing, Integrated Clerk for email authentication and designed
-responsive UI with Tailwind CSS. Implemented a rich text editor and used LangChain with Gemini Flash
-LLM for loading PDFs, text splitting, embedding, and vector-based semantic search. Use Case: Helps students and professionals quickly extract, summarize, and organize key information from
-large documents using AI-powered context-aware search.
