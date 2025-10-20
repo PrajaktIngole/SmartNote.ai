@@ -4,6 +4,7 @@
 SmartNote AI is an intelligent note-taking application designed to help users **capture, organize, and retrieve information efficiently**.  
 Powered by **AI-based summarization and search**, it transforms the way you manage your notes for personal, academic, or professional use.
 
+![image alt](https://github.com/PrajaktIngole/SmartNote.ai/blob/349258c2843e715e66764f52515ce6331a06403d/SmartNote.png)
 ---
 
 ## 🎯 Features
