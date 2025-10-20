@@ -6,6 +6,7 @@ Powered by **AI-based summarization and search**, it transforms the way you mana
 
 ![image alt](https://github.com/PrajaktIngole/SmartNote.ai/blob/349258c2843e715e66764f52515ce6331a06403d/SmartNote.png)
 ---
+https://github.com/user-attachments/assets/db9bf88a-bd78-4aad-b1f4-faa1bb229e1c
 
 ## 🎯 Features
 - **Create & Edit Notes**: Quickly add and update notes with a clean interface.  
